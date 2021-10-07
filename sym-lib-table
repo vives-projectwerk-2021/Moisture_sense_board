@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "2021-10-01_18-20-56")(type "Legacy")(uri "C:/Users/dylan/Downloads/ul_MAX31875R0TZS-T/KiCAD/2021-10-01_18-20-56/2021-10-01_18-20-56.lib")(options "")(descr ""))
+  (lib (name "2021-10-05_14-10-29")(type "Legacy")(uri "C:/Users/dylan/Downloads/ul_TCN75AVUA713/KiCAD/2021-10-05_14-10-29/2021-10-05_14-10-29.lib")(options "")(descr ""))
+)
